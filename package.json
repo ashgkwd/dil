@@ -1,0 +1,27 @@
+{
+  "name": "dil",
+  "version": "1.0.0",
+  "description": "I Love You",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashgkwd/dil.git"
+  },
+  "keywords": [
+    "dil",
+    "I",
+    "Love",
+    "You",
+    "heart"
+  ],
+  "author": "Ashish Gaikwad <ash.gkwd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashgkwd/dil/issues"
+  },
+  "homepage": "https://github.com/ashgkwd/dil#readme"
+}
