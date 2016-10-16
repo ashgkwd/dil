@@ -7,6 +7,6 @@ npm i -S dil
 ```
 # Run on terminal
 ```
-npm say
+npm start
 ```
 It should output "I Love You!"
